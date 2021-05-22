@@ -1,0 +1,44 @@
+C:\Users\Harrison\Documents\test>php load_data.php
+Éxito conectando a la BD.
+
+* Primer Nombre:
+* Segundo Nombre:
+* Primer Apellido: Morales
+* Segundo Apellido: Escobar
+* Edad: 28
+* Celular: 4134123
+
+* Se presentaron los siguientes errores:
+
+- El campo es obligatorio, no puede ir nulo.
+
+
+***********************************
+
+* Primer Nombre: Miguel
+* Segundo Nombre: Angel
+* Primer Apellido: Castrillon
+* Segundo Apellido: Segura
+* Edad: 23
+* Celular: 123412431
+
+* Se creo con exito el registro.
+
+
+***********************************
+
+* Primer Nombre: Jorge
+* Segundo Nombre: Enrique
+* Primer Apellido: Torres
+* Segundo Apellido: Luna
+* Edad: 1
+* Celular: 213412341
+
+* Se creo con exito el registro.
+
+
+***********************************
+
+* Registros con exito: 2
+
+* Registros con error: 1
